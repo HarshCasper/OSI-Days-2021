@@ -28,6 +28,8 @@ Harsh Bardhan Mishra, Google Season of Docs Intern - [moja global](https://moja.
 </div>
 
 ---
+layout: cover
+---
 
 # Agenda
 <br>
@@ -62,6 +64,8 @@ h1 {
 }
 </style>
 
+---
+layout: center
 ---
 
 # Getting started with open source documentation
@@ -102,6 +106,8 @@ Open Source documentation consists of various moving parts. Some of them include
 - Blogs/Videos
 
 ---
+layout: center
+---
 
 # Tools to get started with documentation
 
@@ -117,6 +123,8 @@ There are various tools available today to get you started with documenting your
 
 Some writing tools include Markdown, AsciiDoc, HTML and more.
 
+---
+layout: center
 ---
 
 # Popular examples
@@ -137,6 +145,8 @@ Some of the (opinionated) examples of good open-source documentation projects in
 
 - [Flutter Docs](https://flutter.dev/docs)
 
+---
+layout: center
 ---
 
 # Need of documentation for open source projects
@@ -170,6 +180,8 @@ A “bad” documentation can essentially “kill” the software product. And t
 - Product crumbles under the heavy scope of development and reduces its life span.
 
 ---
+layout: center
+---
 
 # What scope does a documentation fill in?
 
@@ -189,6 +201,8 @@ A documentation piece provides a general scope of contribution to enhance it’s
 <br>
 - Bring up an infrastructure working towards continuous improvement and development.
 
+---
+layout: center
 ---
 
 # Documentation as Code
@@ -210,6 +224,8 @@ Documentation as Code references towards continuous development of docs alongsid
 - Build feedback channels to find areas of improvement and scope of new work.
 
 ---
+layout: center
+---
 
 # Decluttering messy open-source documentation
 
@@ -230,6 +246,8 @@ There are various reasons for messy open source documentation development.
 - Minimal to no connection between documentation and developer teams.
 
 ---
+layout: center
+---
 
 # Style guides for open source documentation
 
@@ -246,6 +264,8 @@ Style guides define specific rules around documentation efforts to ensure consis
 <br>
 - Utilize automated tests on CI to verify compliance with style guides (Vale).
 
+---
+layout: center
 ---
 
 # Standardizing documentation
@@ -264,6 +284,8 @@ Standardized documentation pieces are essential to maintain consistency, share a
 - Conduct reviews with teams to analyze the context and information and find improvement scope.
 
 ---
+layout: center
+---
 
 # Feedbacks and automated reviews
 
@@ -280,6 +302,8 @@ There are various ways to ensure continuous feedbacks and reviews are done for t
 <br>
 - Have feedback surveys on user-facing documentation to understand its helpfulness.
 
+---
+layout: center
 ---
 
 # Strategy towards crowdsourced documentation efforts
@@ -298,6 +322,8 @@ Developing docs in open source is a great way to drive contributions from extern
 - Build learning courses, contribution guides and documentation-related workflows to help new contributors.
 
 ---
+layout: center
+---
 
 # Defining consistent content strategy
 
@@ -315,6 +341,8 @@ A consistent content strategy goes a long way to ensure a long-term vision for t
 - News & Community stories
 - Learning Courses
 
+---
+layout: center
 ---
 
 # Writing with purpose
@@ -335,6 +363,8 @@ Writing with Purpose is about WHY, not HOW
 <br>
 - Am I concise and consistent with my writing efforts?
 
+---
+layout: center
 ---
 
 # Tips for Docs teams
